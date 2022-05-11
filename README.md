@@ -7,7 +7,7 @@
 
 ## Skills
 
-I have been learning and am continuously practicing... 
+I have been learning and practicing... 
 
 - HTML
 - CSS
