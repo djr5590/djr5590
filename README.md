@@ -38,6 +38,6 @@ I have been learning and practicing with...
 - GitHub <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color-glass/48/000000/github.png" />
 - WSL
 - Bash
-- VSCode
+- VSCode 
 - Agile | SCRUM methodology
 -->
