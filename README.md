@@ -23,7 +23,7 @@ I have been learning and practicing with...
 <br />
 
 ## Thank you for stopping by!
-Connect with me <https://www.linkedin.com/in/don-reeves/>[here]
+Connect with me [here] <https://www.linkedin.com/in/don-reeves/>
 
 <!--
 - 🔭 I’m currently working on ...
