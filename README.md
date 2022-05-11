@@ -23,12 +23,7 @@ I have been learning and practicing with...
 <br />
 
 ## Thank you for stopping by!
-Connect with me here <img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />[linkedin]
-
-
-
-<br />
-
+Connect with me here: <img align="left" alt="LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 [linkedin]: https://www.linkedin.com/in/don-reeves/
 
 <!--
