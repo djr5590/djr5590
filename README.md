@@ -1,10 +1,35 @@
-### Hi there 👋
+# Hello! Welcome to my GitHub page
+
+## What I'm up to...
+
+- 🌱 I’m currently learning Cybersecurity
+- 🥅 My goals are to learn Python, Go, and AWS
+
+## Skills
+
+I have been learning and am continuously practicing... 
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- Resful API | MVC Acrchitecture
+- MongoDB
+- Mongoose.js
+- Git
+- GitHub
+- WSL
+- Bash
+- VSCode
+- Agile | SCRUM methodology
+
+<br />
+
+
+
 
 <!--
-**djr5590/djr5590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
