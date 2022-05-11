@@ -2,6 +2,8 @@
 
 ## What I'm up to...
 
+I was brand new to coding as of Septmeber 2021. I decided that I want to learn a new skill set that was challenging yet rewarding. I started my first steps by signing up for a coding bootcamp and since then...
+
 - 🌱 I’m currently learning about Cybersecurity 
 - 🥅 My goals are to learn Python, Go, and AWS
 
